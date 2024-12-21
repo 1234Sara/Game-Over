@@ -12,7 +12,9 @@ header img{
 
 
 .navbar{
-    transform: translateY(-58px);
+    /* transform: translateY(-58px); */
+    margin-top: -30px;
+
     background-color: #3A497B;
     border-radius: 20px;
     /* position: fixed !important;
@@ -22,6 +24,7 @@ header img{
     position: sticky !important;
     top: 0 !important;
     z-index: 9999 !important;
+    
 }
 
 .navbar .nav-item{
